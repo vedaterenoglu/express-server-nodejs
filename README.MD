@@ -3,6 +3,7 @@
 
 [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
 
+![express](https://user-images.githubusercontent.com/38211466/44811396-e2208a80-abd4-11e8-8185-f172cbb4da69.png)
 
 The backend is generated with [Node.js](https://nodejs.org). The backend is based on [Express](http://expressjs.com). Whole stack in [JavaScript ES6](http://es6-features.org/#Constants).
 
