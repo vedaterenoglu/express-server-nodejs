@@ -47,7 +47,7 @@ Go to your browser;
 * you noticed any problem or error
 
 ## Wiki
-To get more help about this project, [visit the official wiki](#).
+To get more help about this project, [visit the official wiki](https://github.com/vedaterenoglu/graphql-server/wiki).
 
 ### Author
 ![Vedat Erenoglu](https://s.gravatar.com/avatar/0e529b095e48c12b9834e4d6ec081dc3?s=80)
