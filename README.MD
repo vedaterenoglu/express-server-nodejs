@@ -58,4 +58,3 @@ To get more help about this project, [visit the official wiki](https://github.co
 * https://www.linkedin.com/in/vedaterenoglu/
 
 
- <iframe src="sign.vedaterenoglu.com/"></iframe> 
