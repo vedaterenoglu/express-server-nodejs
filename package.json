@@ -1,11 +1,11 @@
 {
-  "name": "express-server",
+  "name": "express-server-es6",
   "version": "1.0.0",
   "description": "Express with ES6 and Babel",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "babel-node app.js --presets es2015"
+    "start": "babel-node app.js --presets @babel/preset-env"
   },
   "keywords": [
     "Express",
@@ -16,11 +16,13 @@
   "author": "Vedat Erenoglu",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.3"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-es2015": "^6.24.1"
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/node": "^7.4.5",
+    "@babel/preset-env": "^7.4.5"
   }
 }
