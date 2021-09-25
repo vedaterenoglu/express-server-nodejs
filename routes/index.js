@@ -36,6 +36,7 @@ new Book('The Dream of the Red Chamber','Cao Xueqin','e-Book'),
 new Book('The Lion, the Witch and the Wardrobe', 'C.S. Lewis', 'Audiobook'),
 new Book('The Da Vinci Code','Dan Brown','Audiobook'),
 new Book('The Alchemist','Paulo Coelho','Print'),
+new Book('The Alchemist-2','Paulo Coelho','Print'),
 ];
 res.json(books);
 });
